@@ -4,8 +4,8 @@
   "description": "",
   "main": "E coomerce app backend/server.js",
   "scripts": {
-    "dev": "nodemon E coomerce app backend/server.js",
-    "start": "node E coomerce app backend/server.js"
+    "dev": "nodemon backend/server.js",
+    "start": "node backend/server.js"
   },
   "keywords": [],
   "author": "",
